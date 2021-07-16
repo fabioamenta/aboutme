@@ -1,13 +1,71 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@400;500&family=Rajdhani:wght@400;500;600&display=swap");
+
+:root {
+  --color-bg-canvas: #23272e;
+  --color-bg-element: #2d333b;
+  --color-text: #adbac7;
+  --color-text-dark: #768390;
+  --color-text-light: #ffffff;
+  --color-highlight: #f29559;
+  --color-blue-light: #407286;
+  --color-grey-skill: #40484d;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  background-color: var(--color-bg-canvas);
+  color: var(--color-text-dark);
+  font-family: "Rajdhani", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Dosis", sans-serif;
+  color: var(--color-text);
+  text-transform: uppercase;
+}
+
+h2 {
+  margin: 0 0 2em 0;
+  color: var(--color-highlight);
+  text-align: center;
+  font-weight: 500;
+  font-size: 1.8em;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a,
+a:hover,
+a:focus {
+  transition: color ease-in-out 350ms;
+  text-decoration: none;
+  color: currentColor;
+}
+
+.content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  transition: opacity 500ms ease-in-out;
+}
+
+.content-enter {
+  opacity: 1;
+  z-index: 0;
+}
+
+.content-exit {
+  opacity: 0;
+  z-index: 1;
 }

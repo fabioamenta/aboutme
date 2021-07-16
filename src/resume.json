@@ -1,0 +1,282 @@
+{
+  "name": "Fabio",
+  "surname": "Amenta",
+  "address": "Via Trento, 14 – Limbiate (MB)",
+  "phone": "(+39) 351 599 36 39",
+  "description": "Da oltre una decina d’anni lavoro come front-end, sviluppando codice regolarmente, ma soprattutto responsabilmente. Mi definirei un “purista”, ossessionato da ordine e pulizia, che adotta un criterio di sviluppo “sostenibile”, avvalendosi del principio “DRY”, da sempre il mio mantra. Flessibile, curioso, aperto all’innovazione, sono sempre pronto ad affrontare nuove sfide. Ho lavorato a lungo come freelance, ma essendo stato anche parte integrante di più team, ritengo che il gioco di squadra faccia la differenza.",
+  "role": "Front End Web Developer",
+  "email": "famenta80@gmail.com",
+  "skypeid": "fabio amenta",
+  "birth": "08/03/1980",
+  "nationality": "Italiana",
+
+  "experiences": [
+    {
+      "agency": "Ogilvy Interactive",
+      "role": "Frontend Developer full time",
+      "description": "Drupal custom template, responsive landing page",
+      "tools": [
+        "HTML",
+        "SCSS",
+        "LESS",
+        "TWIG",
+        "jQuery",
+        "JS",
+        "Bootstrap",
+        "Drupal",
+        "Git",
+        "Grunt"
+      ],
+      "from": "04/2021",
+      "to": "06/2021"
+    },
+    {
+      "agency": "Aleide - Web Agency",
+      "role": "Frontend Developer full time, freelance",
+      "description": "Responsive and e-commerce website, Wordpress custom template, CSS for Magento website, landing page, DEM",
+      "tools": [
+        "CSS",
+        "SCSS",
+        "HTML",
+        "JS",
+        "jQuery",
+        "Grunt",
+        "WP",
+        "Magento",
+        "Bootstrap",
+        "PHP"
+      ],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "Idea Docet - Web, Marketing, Comunication",
+      "role": "Frontend Developer freelance",
+      "description": "Responsive website",
+      "tools": ["CSS", "SCSS", "HTML", "Bootstrap", "jQuery", "Git", "SVN"],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "AdEspresso - Social advertising tool",
+      "role": "Frontend Developer full time",
+      "description": "Page templating, React component for AdEspresso app",
+      "tools": [
+        "SCSS",
+        "LESS",
+        "HTML",
+        "TWIG",
+        "Bootstrap",
+        "React.js",
+        "Style Component",
+        "JS",
+        "JSX",
+        "Git",
+        "Jira",
+        "Confluence",
+        "Jest",
+        "Docker"
+      ],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "Diamantea - Web, Marketing",
+      "role": "Frontend Developer freelance",
+      "description": "Responsive website, mobile booking app, landing page, DEM",
+      "tools": ["CSS", "HTML", "SCSS", "jQuery", "Bootstrap", "Wordpress"],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "SDWWG - Marketing, Comunication",
+      "role": "Frontend Developer consultant",
+      "description": "Responsive website, Wordpress custom template, DEM",
+      "tools": [
+        "CSS",
+        "HTML",
+        "SCSS",
+        "Bootstrap",
+        "JS",
+        "jQuery",
+        "WP",
+        "PHP"
+      ],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "Metooo - Event management tool",
+      "role": "Frontend Developer freelance",
+      "description": "Code optimization for cross-browser and multi-platform",
+      "tools": ["CSS", "HTML", "JS", "jQuery", "Foundation"],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "Assist Digital",
+      "role": "Frontend Developer consultant",
+      "description": "Developement of new features for UniCredit intranet",
+      "tools": ["CSS", "HTML", "JS"],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "3X1010 - Creative developers",
+      "role": "Frontend Developer freelance",
+      "description": "Responsive website, landing page and social tab",
+      "tools": ["CSS", "HTML", "Bootstrap", "JS", "jQuery"],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "Creative Juice - Advertising, Web, Print",
+      "role": "Frontend Developer freelance",
+      "description": "Responsive website and landing page, DEM",
+      "tools": ["CSS", "HTML", "JS", "jQuery"],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "Roberto Bruno Design",
+      "role": "Frontend Developer freelance",
+      "description": "Website development and social profile customization",
+      "tools": ["CSS", "HTML", "Bootstrap", "jQuery"],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "A|Tratti - Advertising, Web, Print",
+      "role": "Web Designer, Frontend Developer full time",
+      "description": "Website from scratch to code",
+      "tools": ["CSS", "HTML", "Photoshop"],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "Core - IT solutions",
+      "role": "Web Designer, Frontend Developer full time",
+      "description": "Design and development of web solutions and scripting tools for the management of geo-localized maps",
+      "tools": ["CSS", "HTML", "JS", "XML", "XSLT"],
+      "from": "",
+      "to": ""
+    },
+    {
+      "agency": "STMicroelectronics",
+      "role": "Intern, part time collaborator",
+      "description": "Development of application for flow-chart, intranet website for online services",
+      "tools": ["CSS", "HTML"],
+      "from": "",
+      "to": ""
+    }
+  ],
+
+  "training": [
+    {
+      "name": "My English School",
+      "certificate": "Certificato di frequenza",
+      "course": "Corso di inglese",
+      "date": "2021"
+    },
+    {
+      "name": "Alta Scuola di Formazione per la Protezione dei Dati",
+      "certificate": "Certificato di frequenza",
+      "course": "Site Security & Compliance",
+      "date": "2021"
+    },
+    {
+      "name": "Alta Scuola di Formazione per la Protezione dei Dati",
+      "certificate": "Certificato di frequenza",
+      "course": "Cyber Security Manager",
+      "date": "2020"
+    },
+    {
+      "name": "Alta Scuola di Formazione per la Protezione dei Dati",
+      "certificate": "Certificato di frequenza",
+      "course": "Cyber Security Specialist",
+      "date": "2020"
+    },
+    {
+      "name": "Abea s.r.l.",
+      "certificate": "Certificato di frequenza",
+      "course": "3DStudio Max + VRay",
+      "date": "2020"
+    },
+    {
+      "name": "Accademia di Belle Arti di Catania",
+      "certificate": "Diploma Accademico di I livello",
+      "course": "Corso di laurea triennale in Graphic Design",
+      "date": "2012"
+    },
+    {
+      "name": "I.R.E.S.",
+      "certificate": "Certificato di qualifica professionale",
+      "course": "Qualifica di Web Designer",
+      "date": "2006"
+    },
+    {
+      "name": "Istituto Tecnico Industriale G. Ferraris",
+      "certificate": "Diploma di Scuola media superiore",
+      "course": "Perito tecnico industriale in informatica",
+      "date": "2000"
+    }
+  ],
+
+  "skills": [
+    {
+      "skill": "HTML5",
+      "percentage": "98%",
+      "icon": ["fab", "html5"]
+    },
+    {
+      "skill": "CSS3",
+      "percentage": "98%",
+      "icon": ["fab", "css3"]
+    },
+    {
+      "skill": "SCSS",
+      "percentage": "80%",
+      "icon": ["fab", "sass"]
+    },
+    {
+      "skill": "LESS",
+      "percentage": "70%",
+      "icon": ["fab", "less"]
+    },
+    {
+      "skill": "JavaScript/ES6",
+      "percentage": "45%",
+      "icon": ["fab", "js"]
+    },
+    {
+      "skill": "React",
+      "percentage": "55%",
+      "icon": ["fab", "react"]
+    },
+    {
+      "skill": "Bootstrap",
+      "percentage": "85%",
+      "icon": ["fab", "bootstrap"]
+    },
+    {
+      "skill": "Wordpress",
+      "percentage": "85%",
+      "icon": ["fab", "wordpress-simple"]
+    },
+    {
+      "skill": "Drupal",
+      "percentage": "40%",
+      "icon": ["fab", "drupal"]
+    },
+    {
+      "skill": "Git",
+      "percentage": "85%",
+      "icon": ["fab", "github"]
+    },
+    {
+      "skill": "PHP",
+      "percentage": "45%",
+      "icon": ["fab", "php"]
+    }
+  ]
+}
